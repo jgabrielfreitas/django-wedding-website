@@ -27,7 +27,9 @@ SECRET_KEY = 'u7!-y4k1c6b44q507nr_l+c^12o7ur++cpzyn!$65w^!gum@h%'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    'http://www.joaogabrieleisabella.com.br/',
     'http://joaogabrieleisabella.com.br/',
+    'https://www.joaogabrieleisabella.com.br/'
     'https://joaogabrieleisabella.com.br/'
 ]
 
